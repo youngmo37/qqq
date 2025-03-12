@@ -1,7 +1,8 @@
 ### Quick setup — if you’ve done this kind of thing before
 or	
 https://github.com/youngmo37/qqq.git
-Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+Get started by creating a new file or uploading an existing file. 
+We recommend every repository include a README, LICENSE, and .gitignore.
 
 ## …or create a new repository on the command line
 echo "# qqq" >> README.md
