@@ -16,3 +16,5 @@ git push -u origin main
 git remote add origin https://github.com/youngmo37/qqq.git  
 git branch -M main  
 git push -u origin main  
+
+## after add readme on github online  
